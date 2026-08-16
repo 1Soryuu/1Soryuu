@@ -1,8 +1,8 @@
 # Olá! Eu sou Victor 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (FATEC) 
-🐍 Atualmente estudando Python  
-💻 Interessado em desenvolvimento de software  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (FATEC)<br>
+🐍 Atualmente estudando Python<br>
+💻 Interessado em desenvolvimento de software<br>
 ♟️ Entusiasta de xadrez
 
 ---
