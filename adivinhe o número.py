@@ -4,10 +4,10 @@ numero = random.randint(1, 100)
 
 print("Jogo de adivinhação")
 print("Tente adivinhar o número que estou pensando entre 1 a 100")
-print("Você tem 7 tentativas")
+print("Você tem 8 tentativas")
 
 numero_secreto = numero
-contador = 7
+contador = 8
 acertou = False
 
 while contador > 0:
@@ -18,7 +18,7 @@ while contador > 0:
 
     if tentativa == numero_secreto:
         acertou = True
-        tentativas_usadas = 7 - contador + 1
+        tentativas_usadas = 8 - contador + 1
 
         print("Parabéns! Você acertou!")
         print("Você acertou o número secreto em", tentativas_usadas, "tentativas!")
