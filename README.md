@@ -38,34 +38,6 @@ Atualmente estou focado em construir uma base sólida em desenvolvimento de soft
 
 <div align="center">
 
-### 🚀 Tecnologias que estou estudando
-
-<br>
-
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,git,github\&theme=dark)](https://skillicons.dev)
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Python
-
-### 🌐 HTML & CSS
-
-### ⚡ JavaScript
-
-### 🔧 Git
-
-### 🐙 GitHub
-
-</div>
-
----
-
-<div align="center">
-
 ## 📊 GitHub Stats
 
 <br>
