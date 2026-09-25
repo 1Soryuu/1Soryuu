@@ -38,27 +38,6 @@ Atualmente estou focado em construir uma base sólida em desenvolvimento de soft
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img
-  height="180em"
-  src="https://github-readme-stats-1soryuu.vercel.app/api?username=1Soryuu&show_icons=true&theme=tokyonight&hide_border=true"
-  alt="GitHub Statistics"
-/>
-
-<img
-  height="180em"
-  src="https://github-readme-stats-1soryuu.vercel.app/api/top-langs/?username=1Soryuu&layout=compact&theme=tokyonight&hide_border=true"
-  alt="Top Languages"
-/>
-
-</div>
----
-
-<div align="center">
-
 ## 💻 Atualmente estudando
 
 <br>
