@@ -42,12 +42,19 @@ Atualmente estou focado em construir uma base sólida em desenvolvimento de soft
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=1Soryuu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Statistics"/>
+<img
+  height="180em"
+  src="https://github-readme-stats-1soryuu.vercel.app/api?username=1Soryuu&show_icons=true&theme=tokyonight&hide_border=true"
+  alt="GitHub Statistics"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Soryuu&layout=compact&langs_count=8&theme=tokyonight" alt="Most Used Languages"/>
+<img
+  height="180em"
+  src="https://github-readme-stats-1soryuu.vercel.app/api/top-langs/?username=1Soryuu&layout=compact&theme=tokyonight&hide_border=true"
+  alt="Top Languages"
+/>
 
 </div>
-
 ---
 
 <div align="center">
